@@ -1,0 +1,7 @@
+# https://learn.microsoft.com/en-us/training/modules/python-boolean-types/4-exercise-write-if-statements
+
+object_size = 10
+if object_size > 5:
+  print('We need to keep an eye on this object')
+else:
+  print('Object poses no threat.')
